@@ -1,3 +1,8 @@
+//Alys Shah
+//Creative Coding - Fall 2020
+//Final - Map Generator
+
+
 float increment = 0.02;
 
 int valdetail = 9; // how detailed the terrain is
@@ -5,6 +10,7 @@ int scl = 20; //scale of the hexagons
 
 void setup() {
   size(640, 640);
+  background(0);
 }
 
 void draw() {
